@@ -1,5 +1,8 @@
 # Welcome to the New Orleans Developer Community!
 
+# CSS BATTLE - OCTOBER
+https://cssbattle.dev/battle/28
+
 ## About Us
 We are a vibrant and inclusive community of developers from all levels and backgrounds in the Greater New Orleans Area. Whether you're just starting your coding journey or you're a seasoned professional, there's a place for you here.
 
