@@ -1,7 +1,4 @@
 # Welcome to the New Orleans Developer Community!
-![image](https://github.com/user-attachments/assets/5b964514-3392-4384-8462-b3037a1e9762)
-
-https://misc-bucket-btc.s3.us-east-2.amazonaws.com/list.html
 
 ## About Us
 We are a vibrant and inclusive community of developers from all levels and backgrounds in the Greater New Orleans Area. Whether you're just starting your coding journey or you're a seasoned professional, there's a place for you here.
